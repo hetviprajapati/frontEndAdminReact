@@ -1,0 +1,23 @@
+.outerdiv{
+    display: flex;
+    height: 550px;
+    width:600px;
+    margin: auto;
+    margin-top: 5%;
+    padding: 5%;
+    background-color:rgb(97, 96, 96);
+}
+.innerdiv{
+    width: 500px;
+    height: 400px;
+    margin: auto;
+    padding: 10%;
+    background-color:white;
+}
+.text{
+    font-size: 20px;
+}
+.navitem{
+    margin-left: 120px;
+}
+
